@@ -1,5 +1,7 @@
 ## A HERO CAN BE ANYONE
 
+![screenshot](img/screenshot.jpg)
+
 ### Credits
 
 - Theme - https://codepen.io/MightyShaban/pen/CIfdj
